@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Yelkenli Gövdesi -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M10,34 Q24,42 38,34 L32,40 Q24,44 16,40 Z" />
+
+    <!-- Direk -->
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M23,8 L25,8 L25,36 L23,36 Z" />
+
+    <!-- Sol Yelken -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M23,10 L12,32 L23,32 Z" />
+
+    <!-- Sağ Yelken -->
+    <path
+        android:fillColor="#BBDEFB"
+        android:pathData="M25,14 L36,32 L25,32 Z" />
+
+    <!-- 35.5 Bayrağı (Direk Tepesi) -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M25,8 L32,10 L25,12 Z" />
+</vector>

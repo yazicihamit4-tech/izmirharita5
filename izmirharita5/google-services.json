@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "261982435277",
+    "firebase_url": "https://izmirharita-d0d08-default-rtdb.firebaseio.com",
+    "project_id": "izmirharita-d0d08",
+    "storage_bucket": "izmirharita-d0d08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261982435277:android:774be5a5bdb86f41337684",
+        "android_client_info": {
+          "package_name": "com.yazhamit.izmirharita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261982435277-hejsp0gucgi0bme31bfqk8ca3migb51g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yazhamit.izmirharita",
+            "certificate_hash": "80fda15c781b7dc481a076a93a896ab7de31d194"
+          }
+        },
+        {
+          "client_id": "261982435277-p3c3r4ck9o3o5c90uuvqsivgqf9eeh41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02vAvPZQm1YxRxpB8OAtsPSd8QuEU5xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261982435277-p3c3r4ck9o3o5c90uuvqsivgqf9eeh41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
